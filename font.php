@@ -10,7 +10,7 @@
     }
     @font-face{
       font-family: myFont2;
-      src: url(Doughnut.woff)
+      src: url(smile-Regular.woff)
     }
     #font1{
 	font-family: myFont1;
